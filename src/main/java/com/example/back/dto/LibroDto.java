@@ -1,4 +1,4 @@
-package com.example.back;
+package com.example.back.dto;
 
 import com.example.back.entity.Biblioteca;
 import com.example.back.entity.Libro;

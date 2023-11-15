@@ -1,5 +1,7 @@
-package com.example.back;
+package com.example.back.controller;
 
+import com.example.back.dto.LibroDto;
+import com.example.back.service.LibroService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

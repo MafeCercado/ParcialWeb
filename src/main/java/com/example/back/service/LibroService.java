@@ -1,5 +1,7 @@
-package com.example.back;
+package com.example.back.service;
 
+import com.example.back.dto.LibroDto;
+import com.example.back.repository.LibroRepository;
 import com.example.back.entity.Libro;
 import org.jvnet.hk2.annotations.Service;
 
